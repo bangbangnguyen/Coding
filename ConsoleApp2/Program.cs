@@ -40,6 +40,7 @@ namespace ConsoleApp2
                                 { Console.WriteLine("Tam thoi vo nghiem thuc, chua tinh so phuc dau"); }
                                 else
                                 {
+                                    //change
                                     double x = - sob / (2 * soa);
                                     Console.WriteLine($"Phuong trinh co 1 nghiem kep la x = {x} ");
                                 }
